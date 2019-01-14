@@ -1,0 +1,19 @@
+{
+  "name": "gymtime",
+  "version": "1.0.0",
+  "description": "A pre-programmable timer for gyms. Allows you to save a workouts with different timed segments, and display an image in the background. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mejensen89/GymTime.git"
+  },
+  "author": "Melvin Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mejensen89/GymTime/issues"
+  },
+  "homepage": "https://github.com/mejensen89/GymTime#readme"
+}
