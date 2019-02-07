@@ -14,9 +14,9 @@ module.exports = {
       lastUsed: {
         type: Sequelize.DATEONLY
       },
-      slides: {
-        type: Sequelize.ARRAY
-      },
+      //slides: {
+        //type: Sequelize.ARRAY
+      //},
       nextScheduled: {
         type: Sequelize.DATEONLY
       },

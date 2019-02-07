@@ -22,4 +22,4 @@ describe('routes : static', () => {
   		});
   	});
 
-}); 
+});  
