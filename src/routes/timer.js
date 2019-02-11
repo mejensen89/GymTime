@@ -1,7 +1,7 @@
-const express = require("express");
-const Router = express.Router();
-const timerController = require("../controllers/timerController");
+/*const express = require("express");
+const router = express.Router();
+const staticController = require("../controllers/staticController.js");
 
-router.get("/timer", timerController.getTimer);
+router.get("/about", staticController.about);
 
-module.exports = router;
+module.exports = router; */

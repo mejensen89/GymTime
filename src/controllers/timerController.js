@@ -1,7 +1,8 @@
 module.exports = {
 
-	getTimer(req, res, next){
-		res.render("../views/timer/timer", {title: "Get ready to work!"});
+	index(req, res, next){
+		console.log("index called");
+		res.render("timer/timer", {title: "Get ready to work!"});
 	},
 
 
